@@ -38,7 +38,7 @@ Architecture: iphoneos-arm
 Description: The first real iOS system cleaner & optimizer
 Maintainer: thedoofmodern
 Author: Ivano Bilenchi
-Section: Apps
+Section: Tweaks
 Depends : firmware (>= 4.0), findutils, apt | apt7
 Conflicts : org.altervista.exilecom.icleaner
 Replaces : org.altervista.exilecom.icleaner
