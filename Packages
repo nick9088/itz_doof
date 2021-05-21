@@ -1,0 +1,14 @@
+Package: com.spark.snowboard
+Name: snowboard
+Version: 1.4.12
+Architecture: iphoneos-arm
+Description: Snowboard theming engine
+Maintainer: thedoofmodern
+Author: sparkdev
+Section: Tweaks
+Depends : mobilesubstrate, preferenceloader
+Conflicts : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: debs/1.4.12~Beta4.deb
+Size: 4828
+MD5sum: a4dc9696690c0711b57d8c8a327e7fcf
