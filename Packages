@@ -14,3 +14,19 @@ Size: 1562164
 MD5sum: a4dc9696690c0711b57d8c8a327e7fcf
 SHA256: f517b7f5160a3d27282ecee016a23ecd1a6ace8dd7e23d63aca61e24a8ad2045
 SHA512: 0cd23cde08a7428433c1812aa983cad4c675d4187eef62856b142483e7c4729062bc2257fd203e1d076ab6947f103fc36c3b775c0f694aa2219c5136c5e0fcd9
+
+Package: com.spooter.glyphymavro
+Name: Glyphy × Mavro
+Version: 1.4.7
+Architecture: iphoneos-arm
+Description: The most advanced theme to date.
+Maintainer: thedoofmodern
+Author: spooter × h4ckua11
+Section: Themes
+Depends : mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.opa334.ccsupport, com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.statusbar, com.spark.snowboard.settingsicons, com.spark.snowboard.respringextension, com.spark.snowboard.dock, com.spark.snowboard.masks
+Conflicts : com.twickd.spooter.glyphy, com.twickd.spooter.mavro
+Filename: debs/606f82b844c33b001a1a39de.deb
+Size: 48678098
+MD5sum: 83f4bfa5c4f509fb4be0712a954413c1
+SHA256: e4ac5a849fe0c9eed129301c231837d33188d397a5138356d5f2941b84aeddfd
+SHA512: f512ac6a59818e62095ad899aec07f0430be9ce7b967bce1087c351c4f117f1f36bf68ee7e6ba3c7ff24876e52dc86192a4d250018d637476e44919b3e44ae92
