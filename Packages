@@ -30,3 +30,20 @@ Size: 48678098
 MD5sum: 83f4bfa5c4f509fb4be0712a954413c1
 SHA256: e4ac5a849fe0c9eed129301c231837d33188d397a5138356d5f2941b84aeddfd
 SHA512: f512ac6a59818e62095ad899aec07f0430be9ce7b967bce1087c351c4f117f1f36bf68ee7e6ba3c7ff24876e52dc86192a4d250018d637476e44919b3e44ae92
+
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Version: 7.9.1
+Architecture: iphoneos-arm
+Description: The first real iOS system cleaner & optimizer
+Maintainer: thedoofmodern
+Author: Ivano Bilenchi
+Section: Apps
+Depends : firmware (>= 4.0), findutils, apt | apt7
+Conflicts : org.altervista.exilecom.icleaner
+Replaces : org.altervista.exilecom.icleaner
+Filename: debs/com.exile90.icleanerpro_7.9.1_iphoneos-arm.deb
+Size: 4786998
+MD5sum: ccd722461350e28e2e0b5a029416ca6c
+SHA256: f1e6087494618183f7539bba3a38ee88608383868cfcd524f99b46d7e7a27a47
+SHA512: 472e851b5aa86db6bf178137aa2b0ba885c703157bd81fd61be965d5b18b14783afe7e19a90c48c4defc88779c5851fc6532baa58dbcdd6865d1b3496e11b2d2
