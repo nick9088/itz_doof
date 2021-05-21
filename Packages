@@ -10,5 +10,7 @@ Depends : mobilesubstrate, preferenceloader
 Conflicts : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: debs/1.4.12~Beta4.deb
-Size: 4828
+Size: 1562164
 MD5sum: a4dc9696690c0711b57d8c8a327e7fcf
+SHA256: f517b7f5160a3d27282ecee016a23ecd1a6ace8dd7e23d63aca61e24a8ad2045
+SHA512: 0cd23cde08a7428433c1812aa983cad4c675d4187eef62856b142483e7c4729062bc2257fd203e1d076ab6947f103fc36c3b775c0f694aa2219c5136c5e0fcd9
