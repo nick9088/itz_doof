@@ -38,7 +38,7 @@ Architecture: iphoneos-arm
 Description: The first real iOS system cleaner & optimizer
 Maintainer: thedoofmodern
 Author: Ivano Bilenchi
-Section: Apps
+Section: Utilities
 Depends : firmware (>= 4.0), findutils, apt | apt7
 Conflicts : org.altervista.exilecom.icleaner
 Replaces : org.altervista.exilecom.icleaner
@@ -62,3 +62,4 @@ Size: 51870
 MD5sum: 33c3b0289467c26f3b001ab73778bb53
 SHA256: f6a55ab220bc3b0abfb3a90521d3b5fac1817800b4ec2a1212dad26700339a04
 SHA512: b81fefdc1720d81c4cdd6444d8ae0cb925f21464588836bc796d97a34d102e15ae5ad9dd873887d9d3da7734a8fa616a314cd258b7c5f749f4d998d25a8382a6
+
