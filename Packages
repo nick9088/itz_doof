@@ -62,3 +62,19 @@ Size: 373598
 MD5sum: ab13989b3097386d12013f988a01b72e
 SHA256: 49b904108a3379cd477f27aab6e283004373dc8268ff3e5aae88b0afa03535c2
 SHA512: a6f85425a99d3bdb2fcb57500cdfb5652f120af069a544af1cabde6dc278d7c4aeff2974a597009ba490a107a2314b2facc35e35356b6cbe464fd6476d7e5574
+
+Package: com.lema.unicorn
+Name: Unicorn for TikTok
+Version: 5.2
+Architecture: iphoneos-arm
+Description: Download TikTok Videos and many other enhancements!
+Maintainer: thedoofmodern
+Author: Michael Lema
+Section: Tweaks
+Depends : mobilesubstrate, firmware (>= 5.0)
+Priority : optional
+Filename: debs/unicorn_5.2.deb
+Size: 660082
+MD5sum: d467cc4c86bbda9814c71fc143764da2
+SHA256: b67cee1fac2fec995f86191424a7792a865320ac47b0d11669287e38b276e2ac
+SHA512: fac5c8c6af02e0803015dcb8c326beb41194d46f1261a4954eb4c7a57257e074bc1d789da514984526c70681ce7c71a8865808c8adefe47af727f89a24066e3b 
