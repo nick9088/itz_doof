@@ -48,18 +48,17 @@ MD5sum: ccd722461350e28e2e0b5a029416ca6c
 SHA256: f1e6087494618183f7539bba3a38ee88608383868cfcd524f99b46d7e7a27a47
 SHA512: 472e851b5aa86db6bf178137aa2b0ba885c703157bd81fd61be965d5b18b14783afe7e19a90c48c4defc88779c5851fc6532baa58dbcdd6865d1b3496e11b2d2
 
-Package: com.pixelomer.notanimpostor
-Name: Not An Impostor
-Version: 1.1.5
+Package: prasa.youtubeplus
+Name: YouTube+
+Version: 1.4.6
 Architecture: iphoneos-arm
-Description: 
+Description: Your most complete YouTube tweak!
 Maintainer: thedoofmodern
-Author: pixelomer
+Author: PrasaDev
 Section: Tweaks
-Depends : mobilesubstrate (>= 0.9.5000), firmware (>=6.0)
-Filename: debs/com.pixelomer.notanimpostor_1.1.5_iphoneos-arm.deb
-Size: 51870
-MD5sum: 33c3b0289467c26f3b001ab73778bb53
-SHA256: f6a55ab220bc3b0abfb3a90521d3b5fac1817800b4ec2a1212dad26700339a04
-SHA512:b81fefdc1720d81c4cdd6444d8ae0cb925f21464588836bc796d97a34d102e15ae5ad9dd873887d9d3da7734a8fa616a314cd258b7c5f749f4d998d25a8382a6
-
+Depends : mobilesubstrate, ws.hbang.common (>= 1.11), com.muirey03.libmryipc, prasa.prasalibrary
+Filename: debs/prasa.youtubeplus_1.4.6_iphoneos-arm.deb
+Size: 373598
+MD5sum: ab13989b3097386d12013f988a01b72e
+SHA256: 49b904108a3379cd477f27aab6e283004373dc8268ff3e5aae88b0afa03535c2
+SHA512: a6f85425a99d3bdb2fcb57500cdfb5652f120af069a544af1cabde6dc278d7c4aeff2974a597009ba490a107a2314b2facc35e35356b6cbe464fd6476d7e5574
