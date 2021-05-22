@@ -10,5 +10,56 @@ Depends : mobilesubstrate, preferenceloader
 Conflicts : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Replaces : anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Filename: debs/1.4.12~Beta4.deb
-Size: 4828
+Size: 1562164
 MD5sum: a4dc9696690c0711b57d8c8a327e7fcf
+SHA256: f517b7f5160a3d27282ecee016a23ecd1a6ace8dd7e23d63aca61e24a8ad2045
+SHA512: 0cd23cde08a7428433c1812aa983cad4c675d4187eef62856b142483e7c4729062bc2257fd203e1d076ab6947f103fc36c3b775c0f694aa2219c5136c5e0fcd9
+
+Package: com.spooter.glyphymavro
+Name: Glyphy × Mavro
+Version: 1.4.7
+Architecture: iphoneos-arm
+Description: The most advanced theme to date.
+Maintainer: thedoofmodern
+Author: spooter × h4ckua11
+Section: Themes
+Depends : mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.opa334.ccsupport, com.spark.snowboard, com.spark.snowboard.ui, com.spark.snowboard.statusbar, com.spark.snowboard.settingsicons, com.spark.snowboard.respringextension, com.spark.snowboard.dock, com.spark.snowboard.masks
+Conflicts : com.twickd.spooter.glyphy, com.twickd.spooter.mavro
+Filename: debs/606f82b844c33b001a1a39de.deb
+Size: 48678098
+MD5sum: 83f4bfa5c4f509fb4be0712a954413c1
+SHA256: e4ac5a849fe0c9eed129301c231837d33188d397a5138356d5f2941b84aeddfd
+SHA512: f512ac6a59818e62095ad899aec07f0430be9ce7b967bce1087c351c4f117f1f36bf68ee7e6ba3c7ff24876e52dc86192a4d250018d637476e44919b3e44ae92
+
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Version: 7.9.1
+Architecture: iphoneos-arm
+Description: The first real iOS system cleaner & optimizer
+Maintainer: thedoofmodern
+Author: Ivano Bilenchi
+Section: Utilities
+Depends : firmware (>= 4.0), findutils, apt | apt7
+Conflicts : org.altervista.exilecom.icleaner
+Replaces : org.altervista.exilecom.icleaner
+Filename: debs/com.exile90.icleanerpro_7.9.1_iphoneos-arm.deb
+Size: 4786998
+MD5sum: ccd722461350e28e2e0b5a029416ca6c
+SHA256: f1e6087494618183f7539bba3a38ee88608383868cfcd524f99b46d7e7a27a47
+SHA512: 472e851b5aa86db6bf178137aa2b0ba885c703157bd81fd61be965d5b18b14783afe7e19a90c48c4defc88779c5851fc6532baa58dbcdd6865d1b3496e11b2d2
+
+Package: com.pixelomer.notanimpostor
+Name: Not An Impostor
+Version: 1.1.5
+Architecture: iphoneos-arm
+Description: 
+Maintainer: thedoofmodern
+Author: pixelomer
+Section: Tweaks
+Depends : mobilesubstrate (>= 0.9.5000), firmware (>=6.0)
+Filename: debs/com.pixelomer.notanimpostor_1.1.5_iphoneos-arm.deb
+Size: 51870
+MD5sum: 33c3b0289467c26f3b001ab73778bb53
+SHA256: f6a55ab220bc3b0abfb3a90521d3b5fac1817800b4ec2a1212dad26700339a04
+SHA512: b81fefdc1720d81c4cdd6444d8ae0cb925f21464588836bc796d97a34d102e15ae5ad9dd873887d9d3da7734a8fa616a314cd258b7c5f749f4d998d25a8382a6
+
