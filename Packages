@@ -78,3 +78,20 @@ Size: 660082
 MD5sum: d467cc4c86bbda9814c71fc143764da2
 SHA256: b67cee1fac2fec995f86191424a7792a865320ac47b0d11669287e38b276e2ac
 SHA512: fac5c8c6af02e0803015dcb8c326beb41194d46f1261a4954eb4c7a57257e074bc1d789da514984526c70681ce7c71a8865808c8adefe47af727f89a24066e3b 
+
+Package: pojavlauncher
+Name: PojavLauncher iOS
+Version: 1.2
+Architecture: iphoneos-arm
+Description: Minecraft:Java Edition launcher for iOS, based on PojavLauncher Android. 
+Maintainer: thedoofmodern
+Author: Dorgeron
+Section: Cool Things
+Depends : openjdk-16-jre, firmware (>= 12.0)
+Conflicts : pojavlauncher-dev, pojavlauncher-zink
+Priority : optional
+Filename: debs/pojavlauncher_1.2_iphoneos-arm.deb
+Size: 373598
+MD5sum: 8335aba74d3951f5ec5d3789b03bb5b0
+SHA256: f79236cc7dafc1264bc59cf06b3695eb9abc08504267ed8b07d236666f84de09
+SHA512: 562914fe8fb9635562cc2e86b796221d77c1b0ce8102c75d6d8fd332167f882f96651a6b2a7e001060717f83b682515c52e6d85f015cdaec87defae409ce2b00
