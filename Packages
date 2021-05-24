@@ -91,7 +91,8 @@ Depends : openjdk-16-jre, firmware (>= 12.0)
 Conflicts : pojavlauncher-dev, pojavlauncher-zink
 Priority : optional
 Filename: debs/pojavlauncher_1.2_iphoneos-arm.deb
-Size: 373598
+Size: 6800348
 MD5sum: 8335aba74d3951f5ec5d3789b03bb5b0
 SHA256: f79236cc7dafc1264bc59cf06b3695eb9abc08504267ed8b07d236666f84de09
 SHA512: 562914fe8fb9635562cc2e86b796221d77c1b0ce8102c75d6d8fd332167f882f96651a6b2a7e001060717f83b682515c52e6d85f015cdaec87defae409ce2b00
+SHA1: 2466bc45082d4d722d27e63187014d436be0fdc6
