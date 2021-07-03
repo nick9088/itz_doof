@@ -96,3 +96,19 @@ MD5sum: 8335aba74d3951f5ec5d3789b03bb5b0
 SHA256: f79236cc7dafc1264bc59cf06b3695eb9abc08504267ed8b07d236666f84de09
 SHA512: 562914fe8fb9635562cc2e86b796221d77c1b0ce8102c75d6d8fd332167f882f96651a6b2a7e001060717f83b682515c52e6d85f015cdaec87defae409ce2b00
 SHA1: 2466bc45082d4d722d27e63187014d436be0fdc6
+
+Package: com.itzdoof.ramwallp
+Name: Rick And Morty Wallpaper
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Dark/Light Rick And Morty Wallpaper
+Maintainer: thedoof
+Author: thedoof
+Section: Wallpapers
+Depends : mobilesubstrate, wallpaperloader
+Filename: debs/com.itzdoof.ramwallp_1.0.deb
+Size: 112225
+MD5sum: 9ca0e3f0574312863d7192b1bd7ec82f
+SHA256: 9acba745d0bf487e512e73361821a6f0ee35b515f47e6fc61a9cc245ded0ed02
+SHA512: f6c6189a6ed3e2a62b63bfeb13d05764dd0d01b08d740a1ae5b138663b59032a1ea0b67e33160e6ef3df193ab4e4d0893c18d3801f13f2edc5379d91f481f0b0
+SHA1: b859d8d5bfa641a9de0a3cec9a7189b65c16d79a
